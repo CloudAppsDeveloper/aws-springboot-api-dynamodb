@@ -25,7 +25,4 @@ hs_err_pid*
 .DS_Store
 .factorypath
 *.prefs
-target/classes/application.properties
-target/classes/META-INF/MANIFEST.MF
-target/classes/META-INF/maven/com.cloudapps.developer/aws-springboot-api-dynamodb/pom.properties
-target/classes/META-INF/maven/com.cloudapps.developer/aws-springboot-api-dynamodb/pom.xml
+target/*
